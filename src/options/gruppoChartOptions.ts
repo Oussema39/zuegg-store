@@ -38,7 +38,7 @@ export const gruppoChartOptions = (data: any) => ({
     },
     axisLabel: {
       color: "#666",
-      rotate: 0,
+      rotate: 45,
       interval: 0,
       fontSize: 10,
       formatter: function (value: string) {
